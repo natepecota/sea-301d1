@@ -12,3 +12,4 @@
 - https://github.com/mirandalily/swanson2016/tree/gh-pages
 - https://github.com/Brandon-Parker/mortality
 - https://github.com/AaronFilson/mars-site-vote
+- https://github.com/clee46/note-fellows/
