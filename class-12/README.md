@@ -1,4 +1,4 @@
-# Assignment for Class 13 - REST and APIs
+# Assignment for Class 12 - REST and APIs
 
 Now that we understand how an application can handle different URLs, we can write code that communicates with other code.
 

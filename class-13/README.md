@@ -1,4 +1,4 @@
-# Assignment for Class 12 - Managing State
+# Assignment for Class 13 -  Managing State
 
 State of the Articles...
 
@@ -7,4 +7,4 @@ State of the Articles...
 
 ## Technical Requirements and Grading Rubric
  - Continue to make good use of SMACSS principles.
- - 
+ -
