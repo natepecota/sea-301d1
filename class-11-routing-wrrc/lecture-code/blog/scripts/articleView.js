@@ -21,9 +21,6 @@ articleView.index = function() {
 };
 
 articleView.render = function(article) {
-  // if (!blog.isAdmin() && !this.publishedOn) {
-  //   return '';
-  // }
   article.daysAgo =
     parseInt((new Date() - new Date(article.publishedOn))/60/60/24/1000);
 
