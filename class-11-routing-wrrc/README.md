@@ -13,8 +13,6 @@ The URLs that your app can respond to maps to your apps capabilities. Consider w
  - As a developer, I want an articleController, so that I can group together actions related to the article resource.
  - As an reader, I want to view the article index, so that I can read all the articles.
 
-
-
 ## User Stories: Stretch goals
  1. As a reader, I want to view '/about', so that I can learn more about the brilliant dev who created this site.  
  - As an developer, I want a URL for each blog post, so that individual articles can be shared.
